@@ -1,4 +1,4 @@
-# Luna Commando
+# Lunar Commando
 
 Modern Port of the classic "Luna Commando" Game with full Controller support.
 
